@@ -1,0 +1,1 @@
+Soon to be a SiriProxy plug-in for Logic Pro.
