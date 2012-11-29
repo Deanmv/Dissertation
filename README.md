@@ -6,11 +6,14 @@ This repo is a plugin for [SiriProxy] (https://github.com/plamoni/SiriProxy) tha
 Installation
 ------------
 
-First you will need to install Siri Proxy and when up and running drop this plugin into your Siri Proxy Plug-ins folder, e.g:
+First you will need to install Siri Proxy and when up and running drop this plugin into your Siri Proxy Plug-ins, e.g:
 
-`~/SiriProxy/plugins`
+`~/SiriProxy/plugins/`
 
-There you will need to create the folder `SiriProxy-Logic` and then put the files from this repo into that folder.
+There you will need to create the folder `SiriProxy-Logic` and then put the files from this repo into that folder. So then you have:
+
+`~/SiriProxy/plugins/SiriProxy-Logic/these repo files`
+
 
 Configuiring
 ------------
