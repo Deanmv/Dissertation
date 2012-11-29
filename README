@@ -1,1 +1,16 @@
-SiriProxy Controller for Logic Pro
+SiriProxy Controller for Logic Pro 
+==================================
+
+This repo is a plugin for [SiriProxy] (https://github.com/plamoni/SiriProxy) that will let the user control Apple's Logic Pro application from anywhere on the same wifi using Siri
+
+Installation
+------------
+
+First you will need to install Siri Proxy and when up and running drop this plugin into your Siri Proxy Plug-ins folder, e.g:
+
+'~/SiriProxy/plugins'
+
+There you will need to create the folder 'SiriProxy-Logic' and then put the files from this repo into that folder.
+
+Configuiring
+------------
