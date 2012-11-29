@@ -8,19 +8,19 @@ Installation
 
 First you will need to install Siri Proxy and when up and running drop this plugin into your Siri Proxy Plug-ins folder, e.g:
 
-'~/SiriProxy/plugins'
+`~/SiriProxy/plugins`
 
-There you will need to create the folder 'SiriProxy-Logic' and then put the files from this repo into that folder.
+There you will need to create the folder `SiriProxy-Logic` and then put the files from this repo into that folder.
 
 Configuiring
 ------------
 
 This plug-in uses "osascript" to open AppleScript files that I have created to run the commands within Logic.  Make sure that the AppleScript files are saved in:
 
-'/SiriProxy-Logic/lib/osafiles/'
+`/SiriProxy-Logic/lib/osafiles/`
 
 Also you will need to change your 'config.yml' file in:
 
-'~/.siriproxy' 
+`~/.siriproxy`
 
 Please see configuration.yml for details.
