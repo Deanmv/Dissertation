@@ -23,8 +23,4 @@ Also you will need to change your 'config.yml' file in:
 
 '~/.siriproxy' 
 
-to include:
-
-* name: 'Logic'
-*  path: (The location of the plugin) e.g. '~/SiriProxy/plugins/SiriProxy-Logic'
-*  host: (The location of Logic if not running on same device as Siri Proxy server e.g '192.168.0.3'
+Please see configuration.yml for details.
