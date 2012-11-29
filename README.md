@@ -10,9 +10,9 @@ First you will need to install Siri Proxy and when up and running drop this plug
 
 `~/SiriProxy/plugins/`
 
-There you will need to create the folder `SiriProxy-Logic` and then put the files from this repo into that folder. So then you have:
+There you will need to create the folder `siriproxy-logic` and then put the files from this repo into that folder. E.g. So then you have:
 
-`~/SiriProxy/plugins/SiriProxy-Logic/these repo files`
+`~/SiriProxy/plugins/siriproxy-logic/these repo files`
 
 
 Configuiring
@@ -20,7 +20,7 @@ Configuiring
 
 This plug-in uses "osascript" to open AppleScript files that I have created to run the commands within Logic.  Make sure that the AppleScript files are saved in:
 
-`/SiriProxy-Logic/lib/osafiles/`
+`/siriproxy-logic/lib/osafiles/`
 
 Also you will need to change your 'config.yml' file in:
 
