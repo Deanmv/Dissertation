@@ -1,3 +1,6 @@
+COMING SOON
+===========
+
 SiriProxy Controller for Logic Pro 
 ==================================
 
@@ -18,11 +21,7 @@ There you will need to create the folder `siriproxy-logic` and then put the file
 Configuiring
 ------------
 
-This plug-in uses "osascript" to open AppleScript files that I have created to run the commands within Logic.  Make sure that the AppleScript files are saved in:
-
-`/siriproxy-logic/lib/osafiles/`
-
-Also you will need to change your 'config.yml' file in:
+You will need to change your 'config.yml' file in:
 
 `~/.siriproxy`
 
@@ -31,7 +30,7 @@ Please see configuration.yml for details.
 Legal Bits
 ----------
 
-Copyright (c) 2012, Dean Vizer
+Copyright (c) 2013, Dean Vizer
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
