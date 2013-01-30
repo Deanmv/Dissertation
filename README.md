@@ -27,6 +27,25 @@ You will need to change your 'config.yml' file in:
 
 Please see configuration.yml for details.
 
+Available Commands
+------------------
+
+Logic Play - Plays the project
+
+Logic stop - Stops the project
+
+Logic record - Records the project
+
+Logic go to bar *number* - Sets to playhead to said bar
+
+Logic loop on - Turns on looping of the project
+
+Logic loop off - Turns off looping of the project
+
+Logic show (the) mix her - Displays the mixer on screen [have used "mix her" here to better capture speech in Siri]
+
+Logic hide (the) mix her - Hides the mixer on screen [have used "mix her" here to better capture speech in Siri]
+
 Legal Bits
 ----------
 
