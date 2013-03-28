@@ -38,13 +38,29 @@ Logic record - Records the project
 
 Logic go to bar "*number*" - Sets to playhead to said bar
 
-Logic loop on - Turns on looping of the project
+Logic (turn) loop on - Turns on looping of the project
 
-Logic loop off - Turns off looping of the project
+Logic (turn) loop off - Turns off looping of the project
 
 Logic show (the) mix her - Displays the mixer on screen [have used "mix her" here to better capture speech in Siri]
 
 Logic hide (the) mix her - Hides the mixer on screen [have used "mix her" here to better capture speech in Siri]
+
+Logic (turn) solo on - Turns solo on for the project.
+
+Logic (turn) solo off - Turns solo off for the project.
+
+Logic track up - Moves up one track (Used for when listening in solo mode)
+
+Logic track down - Moves down on track (Used for when listening in solo mode)
+
+Logic zoom in vertically - Zooms in the arrange window on the Y axis.
+
+Logic zoom out vertically - Zooms out the arrange window on the Y axis.
+
+Logic zoom in horizontally - Zooms in the arrange window on the X axis.
+
+Logic zoom out horizontally - Zooms out the arrange window on the X axis.
 
 Legal Bits
 ----------
