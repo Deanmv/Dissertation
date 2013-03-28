@@ -62,6 +62,8 @@ Logic zoom in horizontally - Zooms in the arrange window on the X axis.
 
 Logic zoom out horizontally - Zooms out the arrange window on the X axis.
 
+Logic toggle record enable - Turns record enable on and off. (Can be used with track up and down to toggle multiple track at once.  NOTE: Does not have an "on or off" check, so will just toggle the option.
+
 Legal Bits
 ----------
 
