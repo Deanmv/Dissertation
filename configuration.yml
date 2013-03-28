@@ -1,7 +1,7 @@
 #Changing settings here have no effect.  Please copy and paste this into ~/.siriproxy to make the configurations work.
 
-- name: 'Logic'
-  path: 'The location of the plugin' #e.g. '~/SiriProxy/plugins/SiriProxy-Logic' or you can use the github link for the latest updates 'git://github.com/Deanmv/Dissertation.git'
-  machine: ' ' #e.g. studio-mac.local for a remote machine or just use 'local' for a machine running SiriProxy AND the Server.
+    - name: 'Logic'
+	  git: 'git://github.com/Deanmv/Dissertation.git'
+      machine: 'local' #Machine should be in the format of eppc://Username:Password@IP or EPPC address for remote machines, and just 'local' if siriproxy and 					   #logic are on the same machine.
   
 #Then update with 'rvmsudo siriproxy bundle'
