@@ -27,42 +27,43 @@ You will need to change your 'config.yml' file in:
 
 Please see configuration.yml for details.
 
-Available Commands
+Available Commands  
 ------------------
+NOTE: Words in () in commands are optional, commands work with or without.
 
-Logic Play - Plays the project
+Logic Play - Plays the project.
 
-Logic stop - Stops the project
+Logic Stop - Stops the project.
 
-Logic record - Records the project
+Logic Record - Records the project.
 
-Logic go to bar "*number*" - Sets to playhead to said bar
+Logic Go To Bar "*number*" - Sets to playhead to said bar.
 
-Logic (turn) loop on - Turns on looping of the project
+Logic (turn) Loop On - Turns on looping of the project.
 
-Logic (turn) loop off - Turns off looping of the project
+Logic (turn) Loop Off - Turns off looping of the project.
 
-Logic show (the) mix her - Displays the mixer on screen [have used "mix her" here to better capture speech in Siri]
+Logic Show (the) Mixer - Displays the mixer on screen.
 
-Logic hide (the) mix her - Hides the mixer on screen [have used "mix her" here to better capture speech in Siri]
+Logic Hide (the) Mixer - Hides the mixer on screen.
 
-Logic (turn) solo on - Turns solo on for the project.
+Logic (turn) Solo On - Turns solo on for the project.
 
-Logic (turn) solo off - Turns solo off for the project.
+Logic (turn) Solo Off - Turns solo off for the project.
 
-Logic track up - Moves up one track (Used for when listening in solo mode)
+Logic Track Up - Moves up one track (Used for when listening in solo mode).
 
-Logic track down - Moves down on track (Used for when listening in solo mode)
+Logic Track Down - Moves down on track (Used for when listening in solo mode).
 
-Logic zoom in vertically - Zooms in the arrange window on the Y axis.
+Logic Zoom In Vertically - Zooms in the arrange window on the Y axis.
 
-Logic zoom out vertically - Zooms out the arrange window on the Y axis.
+Logic Zoom Out Vertically - Zooms out the arrange window on the Y axis.
 
-Logic zoom in horizontally - Zooms in the arrange window on the X axis.
+Logic Zoom In Horizontally - Zooms in the arrange window on the X axis.
 
-Logic zoom out horizontally - Zooms out the arrange window on the X axis.
+Logic Zoom Out Horizontally - Zooms out the arrange window on the X axis.
 
-Logic toggle record enable - Turns record enable on and off. (Can be used with track up and down to toggle multiple track at once.  NOTE: Does not have an "on or off" check, so will just toggle the option.
+Logic Toggle Record Enable - Turns record enable on and off. (Can be used with track up and down to toggle multiple track at once.) - NOTE: Does not have an "on or off" check, so will just toggle the option.
 
 Legal Bits
 ----------
