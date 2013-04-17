@@ -53,7 +53,7 @@ Logic (turn) Solo Off - Turns solo off for the project.
 
 Logic Track Up - Moves up one track (Used for when listening in solo mode).
 
-Logic Track Down - Moves down on track (Used for when listening in solo mode).
+Logic Track Down - Moves down one track (Used for when listening in solo mode).
 
 Logic Zoom In Vertically - Zooms in the arrange window on the Y axis.
 
