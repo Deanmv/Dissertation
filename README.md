@@ -51,6 +51,10 @@ Logic (turn) Solo On - Turns solo on for the project.
 
 Logic (turn) Solo Off - Turns solo off for the project.
 
+Logic Track Count Is "*number*" - Lets siri know how many tracks you have in the project. (Needed for track up/track down)
+
+Logic What Track Am I on? - Tells you what track you currently have selected.
+
 Logic Track Up - Moves up one track (Used for when listening in solo mode).
 
 Logic Track Down - Moves down one track (Used for when listening in solo mode).
