@@ -1,6 +1,3 @@
-COMING SOON
-===========
-
 SiriProxy Controller for Logic Pro 
 ==================================
 
